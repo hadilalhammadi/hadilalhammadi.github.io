@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>BithDay</title>
+<style>
+body{
+background-color:lightpink;
+
+}
+img {
+width:70%;
+}
+
+h1{
+color: red
+}
+</style>
+
+</head>
+<body>
+
+<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/cake.png">
+<h1>BirthDay Invite </h1>
+<h2>Details </h2>
+
+<p>Date: 15/03</p>
+<p>Time: 14:00pm</p>
+<p>Location: Blank St Cafe</p>
+<ul>Guests list
+<li>Hadil</li>
+<li>Rana</li>
+<li>Sara</li>
+<li>Dana</li>
+</ul>
+
+
+</body>
+</html>
